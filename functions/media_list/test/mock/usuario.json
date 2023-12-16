@@ -1,0 +1,16 @@
+{
+  "name": "Pedro Pinto",
+  "cpf": "033.697.850-21",
+  "phone": "(54)9 9658-2060",
+  "mail": "yperdoom@gmail.com",
+  "address": {
+    "rua": "rua julio de castilhos",
+    "bairro": "centro",
+    "complemento": "casa",
+    "numero": 182,
+    "cep": "99610-000",
+    "cidade": "rio",
+    "estado": "rs",
+    "pais": "brasil"
+  }
+}

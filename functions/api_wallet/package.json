@@ -1,0 +1,29 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/api/server.js",
+    "import_excel": "node src/import/import_xlsx",
+    "dev": "nodemon src/api/routes.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.1.3",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "luxon": "^3.3.0",
+    "mongoose": "^7.2.2",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19",
+    "standard": "^17.1.0"
+  }
+}

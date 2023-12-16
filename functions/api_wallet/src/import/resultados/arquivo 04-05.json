@@ -1,0 +1,204 @@
+[
+  {
+    "Conta": "saldo",
+    "Valor": 137,
+    "data": 44674,
+    "recorrentes": "paypal 3/4",
+    "Valor_1": 56.22,
+    "data_1": 44660,
+    "gastos": "picpay eu",
+    "Valor_2": 102.92,
+    "data_2": 44663
+  },
+  {
+    "Conta": "salario",
+    "Valor": 1747.18,
+    "data": 44687,
+    "recorrentes": "ml 6/12",
+    "Valor_1": 34.99,
+    "data_1": 44660,
+    "gastos": "food unoesc",
+    "Valor_2": 3,
+    "data_2": 44663
+  },
+  {
+    "Conta": "emprestimo 3/12",
+    "Valor": -347.4,
+    "data": 44691,
+    "recorrentes": "amazon 6/9",
+    "Valor_1": 30.32,
+    "data_1": 44660,
+    "gastos": "deli unoesc",
+    "Valor_2": 14,
+    "data_2": 44663
+  },
+  {
+    "Conta": "aluguel",
+    "Valor": -1599.78,
+    "data": 44690,
+    "recorrentes": "amazon 3/4",
+    "Valor_1": 30.69,
+    "data_1": 44660,
+    "gastos": "deli unoesc",
+    "Valor_2": 3,
+    "data_2": 44665
+  },
+  {
+    "Conta": "net",
+    "Valor": -100,
+    "data": 44690,
+    "recorrentes": "oestepet 2/3",
+    "Valor_1": 51.95,
+    "data_1": 44660,
+    "gastos": "deli unoesc",
+    "Valor_2": 7,
+    "data_2": 44665
+  },
+  {
+    "Conta": "celesc",
+    "Valor": -75.85,
+    "data": 44690,
+    "recorrentes": "shopee 2/6",
+    "Valor_1": 9.85,
+    "data_1": 44660,
+    "gastos": "food unoesc",
+    "Valor_2": 7.5,
+    "data_2": 44665
+  },
+  {
+    "Conta": "vivo",
+    "Valor": -65.99,
+    "data": 44690,
+    "recorrentes": "amazon 7/7",
+    "Valor_1": 33.97,
+    "data_1": 44660,
+    "gastos": "deli unoesc",
+    "Valor_2": 7,
+    "data_2": 44672
+  },
+  {
+    "Conta": "mae",
+    "Valor": 100,
+    "data": 44690,
+    "recorrentes": "shopee 1/6",
+    "Valor_1": 8.25,
+    "data_1": 44661,
+    "gastos": "food unoesc",
+    "Valor_2": 3,
+    "data_2": 44672
+  },
+  {
+    "Conta": "helo",
+    "Valor": 500,
+    "data": 44690,
+    "recorrentes": "eng do corpo",
+    "Valor_1": 109.9,
+    "data_1": 44661,
+    "gastos": "multisom",
+    "Valor_2": 56.8,
+    "data_2": 44674
+  },
+  {
+    "Conta": "matheus",
+    "Valor": 937,
+    "data": 44690,
+    "recorrentes": "eng do corpo",
+    "Valor_1": 8.32,
+    "data_1": 44661,
+    "gastos": "food unoesc",
+    "Valor_2": 4,
+    "data_2": 44679
+  },
+  {
+    "Conta": "diovanna bolsa",
+    "Valor": -58.5,
+    "data": 44709,
+    "recorrentes": "amazon",
+    "Valor_1": 9.9,
+    "data_1": 44669
+  },
+  {
+    "Conta": "mano luiz",
+    "Valor": -15,
+    "data": 44702,
+    "recorrentes": "fatura banco inter",
+    "Valor_1": 532.98,
+    "data_1": 44691
+  },
+  {
+    "Conta": "BDR (nubr33)",
+    "Valor": -13,
+    "data": 44706,
+    "recorrentes": "amazon 1/4",
+    "Valor_1": 10.64,
+    "data_1": 44686
+  },
+  {
+    "Conta": "sobra BDR",
+    "Valor": 1.95,
+    "data": 44706,
+    "recorrentes": "spotify",
+    "Valor_1": 9.9,
+    "data_1": 44688
+  },
+  {
+    "Conta": "helo",
+    "Valor": 40.01,
+    "data": 44706
+  },
+  {
+    "Conta": "BDR (nubr33)",
+    "Valor": -41.98,
+    "data": 44706
+  },
+  {
+    "Conta": "sobra BDR",
+    "Valor": 1.46,
+    "data": 44706
+  },
+  {
+    "Conta": "saque emergencial",
+    "Valor": 1000,
+    "data": 44710
+  },
+  {
+    "Valor": 2147.1000000000004,
+    "Valor_1": 937.8799999999999,
+    "data_1": 44690,
+    "Valor_2": 208.22000000000003,
+    "data_2": 44690
+  },
+  {
+    "Conta": "Total",
+    "Valor": 2147.1000000000004,
+    "recorrentes": 1001.0000000000005,
+    "__EMPTY_1": 1146.1
+  },
+  {
+    "Conta": "flash"
+  },
+  {
+    "Conta": "Conta",
+    "Valor": "Valor",
+    "data": "data",
+    "recorrentes": "gastos",
+    "Valor_1": "Valor",
+    "data_1": "data"
+  },
+  {
+    "Conta": "saldo",
+    "Valor": 152.32,
+    "data": 44690,
+    "gastos": 1146.1
+  },
+  {
+    "Valor": 152.32,
+    "Valor_1": 0
+  },
+  {
+    "Conta": "Total",
+    "Valor": 152.32,
+    "recorrentes": 152.32,
+    "__EMPTY_1": 0
+  }
+]

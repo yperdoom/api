@@ -1,0 +1,6 @@
+# node install files
+/node_modules
+/package-lock.json
+
+# environment file
+.env

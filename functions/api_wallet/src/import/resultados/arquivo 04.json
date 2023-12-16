@@ -1,0 +1,306 @@
+[
+  {
+    "Conta": "saldo",
+    "Valor": 841.5399999999988,
+    "data": 45017,
+    "nubank": "kabum",
+    "referente á": "volante g29",
+    "p": 5,
+    "t": 10,
+    "Valor_1": 134.11,
+    "data_1": 44994,
+    "__EMPTY_1": "m",
+    "outros": "faculdade",
+    "referente á_2": "mensalidade",
+    "p_2": 4,
+    "t_2": 6,
+    "Valor_3": 131.72,
+    "dividas": "helo",
+    "__EMPTY_4": 700,
+    "total": 700
+  },
+  {
+    "Conta": "helo (coisas dela)",
+    "Valor": 1000,
+    "data": 45025,
+    "nubank": "kabum",
+    "referente á": "galaxy watch",
+    "p": 4,
+    "t": 10,
+    "Valor_1": 202.83,
+    "data_1": 44994,
+    "__EMPTY_1": "m"
+  },
+  {
+    "Conta": "salario",
+    "Valor": 2763.26,
+    "data": 45022,
+    "nubank": "amazon",
+    "referente á": "cabos ethernet",
+    "p": 3,
+    "t": 3,
+    "Valor_1": 108.65,
+    "data_1": 44994,
+    "__EMPTY_1": "m"
+  },
+  {
+    "Conta": "PIX mémorias RAM terabyte",
+    "Valor": -861.65,
+    "data": 45026,
+    "nubank": "nuuvem",
+    "referente á": "hogwarts legacy",
+    "p": 2,
+    "t": 3,
+    "Valor_1": 70.62,
+    "data_1": 44994,
+    "__EMPTY_1": "m"
+  },
+  {
+    "Conta": "EMPRÉSTIMO MÃE",
+    "Valor": 1500,
+    "data": 45026,
+    "nubank": "shopee",
+    "referente á": "quarto/banheiro",
+    "p": 2,
+    "t": 3,
+    "Valor_1": 35.25,
+    "data_1": 44994,
+    "__EMPTY_1": "m",
+    "dividas": "TOTAL",
+    "total": 700
+  },
+  {
+    "Conta": "PIX placa de vídeo kabum",
+    "Valor": -3066.4,
+    "data": 45026,
+    "nubank": "shopee",
+    "referente á": "quarto/banheiro",
+    "p": 2,
+    "t": 3,
+    "Valor_1": 35.11,
+    "data_1": 44994,
+    "__EMPTY_1": "m"
+  },
+  {
+    "Conta": "quadrado hbo",
+    "Valor": -7,
+    "data": 45026,
+    "nubank": "shopee",
+    "referente á": "capa controle",
+    "p": 2,
+    "t": 3,
+    "Valor_1": 17.39,
+    "data_1": 44994,
+    "__EMPTY_1": "m",
+    "dividas": "compras a prazo no cartão"
+  },
+  {
+    "Conta": "helo (coisas dela)",
+    "Valor": 46.5,
+    "data": 45026,
+    "nubank": "amazon",
+    "referente á": "container e café",
+    "p": 2,
+    "t": 2,
+    "Valor_1": 72.55,
+    "data_1": 44994,
+    "__EMPTY_1": "m",
+    "dividas": "volante g29",
+    "__EMPTY_4": 134.11,
+    "__EMPTY_5": 5,
+    "total": 670.5500000000001
+  },
+  {
+    "Conta": "fontana pizzaria",
+    "Valor": -54.9,
+    "data": 45035,
+    "nubank": "petlove",
+    "referente á": "ração",
+    "p": 2,
+    "t": 3,
+    "Valor_1": 126.19,
+    "data_1": 44994,
+    "__EMPTY_1": "m",
+    "dividas": "galaxy watch",
+    "__EMPTY_4": 202.83,
+    "__EMPTY_5": 6,
+    "total": 1216.98
+  },
+  {
+    "nubank": "shopee",
+    "referente á": "skin controles",
+    "p": 2,
+    "t": 3,
+    "Valor_1": 19.98,
+    "data_1": 44994,
+    "__EMPTY_1": "m",
+    "dividas": "hogwarts legacy",
+    "__EMPTY_4": 70.62,
+    "__EMPTY_5": 1,
+    "total": 70.62
+  },
+  {
+    "nubank": "mood19",
+    "referente á": "compra da helo",
+    "p": 2,
+    "t": 3,
+    "Valor_1": 76.66,
+    "data_1": 44994,
+    "__EMPTY_1": "m",
+    "dividas": "quarto/banheiro",
+    "__EMPTY_4": 35.25,
+    "__EMPTY_5": 1,
+    "total": 35.25
+  },
+  {
+    "nubank": "nuuvem",
+    "referente á": "resident evil 4",
+    "p": 1,
+    "t": 4,
+    "Valor_1": 50.52,
+    "data_1": 44995,
+    "__EMPTY_1": "m",
+    "dividas": "quarto/banheiro",
+    "__EMPTY_4": 35.11,
+    "__EMPTY_5": 1,
+    "total": 35.11
+  },
+  {
+    "nubank": "discord",
+    "referente á": "nitro monthly",
+    "p": "-",
+    "t": "-",
+    "Valor_1": 26.23,
+    "data_1": 45001,
+    "__EMPTY_1": "m",
+    "dividas": "capa controle",
+    "__EMPTY_4": 17.39,
+    "__EMPTY_5": 1,
+    "total": 17.39
+  },
+  {
+    "nubank": "[IOF] discord",
+    "referente á": "nitro monthly",
+    "p": "-",
+    "t": "-",
+    "Valor_1": 1.41,
+    "data_1": 45001,
+    "__EMPTY_1": "m"
+  },
+  {
+    "nubank": "nuuvem",
+    "referente á": "reded, gow e horizon zero dawn",
+    "p": 1,
+    "t": 4,
+    "Valor_1": 62.88,
+    "data_1": 45006,
+    "__EMPTY_1": "m",
+    "dividas": "ração",
+    "__EMPTY_4": 126.19,
+    "__EMPTY_5": 1,
+    "total": 126.19
+  },
+  {
+    "nubank": "barbiero",
+    "referente á": "coiso do cano",
+    "p": "-",
+    "t": "-",
+    "Valor_1": 24,
+    "data_1": 45006,
+    "__EMPTY_1": "m",
+    "dividas": "skin controles",
+    "__EMPTY_4": 19.98,
+    "__EMPTY_5": 1,
+    "total": 19.98
+  },
+  {
+    "nubank": "zanela",
+    "referente á": "coiso pro palio",
+    "p": "-",
+    "t": "-",
+    "Valor_1": 17,
+    "data_1": 45006,
+    "__EMPTY_1": "m",
+    "dividas": "compra da helo",
+    "__EMPTY_4": 76.66,
+    "__EMPTY_5": 1,
+    "total": 76.66
+  },
+  {
+    "nubank": "atacado via",
+    "referente á": "compras no via",
+    "p": "-",
+    "t": "-",
+    "Valor_1": 896.07,
+    "data_1": 45013,
+    "__EMPTY_1": "m",
+    "dividas": "resident evil 4",
+    "__EMPTY_4": 50.52,
+    "__EMPTY_5": 3,
+    "total": 151.56
+  },
+  {
+    "nubank": "spotify",
+    "referente á": "sync",
+    "p": "-",
+    "t": "-",
+    "Valor_1": 19.9,
+    "data_1": 45022,
+    "__EMPTY_1": "m"
+  },
+  {
+    "dividas": "TOTAL",
+    "total": 1749.74
+  },
+  {
+    "dividas": "TOTAL",
+    "total": 1749.74
+  },
+  {
+    "Valor": 2161.3499999999995,
+    "Valor_1": 1997.3500000000004,
+    "Valor_3": 131.72
+  },
+  {
+    "Conta": "Total",
+    "Valor": 2161.3499999999995,
+    "nubank": 32.27999999999929,
+    "outros": 2129.07
+  },
+  {
+    "Conta": "flash",
+    "Valor_1": 32.27999999999929,
+    "outros": 2129.07
+  },
+  {
+    "Conta": "Conta",
+    "Valor": "Valor",
+    "data": "data",
+    "nubank": "gastos",
+    "referente á": "Valor",
+    "p": "data"
+  },
+  {
+    "Conta": "saldo",
+    "Valor": 508.05999999999995,
+    "data": 44773
+  },
+  {
+    "Conta": "acrescimo",
+    "Valor": 539,
+    "data": 44958
+  },
+  {
+    "Valor": 1047.06,
+    "referente á": 0
+  },
+  {
+    "Conta": "Total",
+    "Valor": 1047.06,
+    "nubank": 1047.06,
+    "t": 0
+  },
+  {
+    "referente á": 1047.06
+  }
+]

@@ -1,0 +1,58 @@
+service: sls-media
+
+frameworkVersion: '3'
+
+provider:
+  name: aws
+  runtime: nodejs14.x
+
+  stage: ${opt:stage, 'dev'}
+  region: ${opt:region, 'us-east-1'}
+
+  stackName: ${self:provider.stage}-${self:service}
+
+  environment:
+    NODE_ENV: ${self:custom.stage}
+    REGION: ${self:custom.region}
+
+custom:
+  stage: ${opt:stage, self:provider.stage}
+  region: ${self:provider.region}
+
+  ApiCreateMedia: ${self:custom.stage}-${self:service}-create-media
+  ApiGetMedias: ${self:custom.stage}-${self:service}-get-medias
+  ApiCreateUser: ${self:custom.stage}-${self:service}-create-users
+
+
+functions:
+  ApiCreateMedia:
+    name: ${self:custom.apiCreateMedia}
+    handler: src/api.createMedia
+    description: create media arquive
+    events:
+      - http:
+          path: /medias/
+          method: post
+          cors: true
+
+
+  ApiGetMedias:
+    name: ${self:custom.apiGetMedias}
+    handler: src/api.getMedias
+    description: get medias
+    events:
+      - http:
+          path: /medias/
+          method: get
+          cors: true
+
+
+  ApiCreateUser:
+    name: ${self:custom.apiCreateUser}
+    handler: src/api.createUser
+    description: create user
+    events:
+      - http:
+          path: /users/
+          method: post
+          cors: true

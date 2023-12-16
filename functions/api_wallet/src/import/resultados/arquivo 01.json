@@ -1,0 +1,287 @@
+[
+  {
+    "Conta": "saldo",
+    "Valor": -1.1368683772161603e-12,
+    "data": 44562,
+    "recorrentes": "netshoes",
+    "referente á": "tenis/camisa",
+    "p": 3,
+    "t": 8,
+    "Valor_1": 66.87,
+    "data_1": 44904
+  },
+  {
+    "Conta": "salario",
+    "Valor": 1783.15,
+    "data": 44932,
+    "recorrentes": "amazon",
+    "referente á": "controle",
+    "p": 8,
+    "t": 10,
+    "Valor_1": 51.28,
+    "data_1": 44904
+  },
+  {
+    "Conta": "marciano copelli",
+    "Valor": -10,
+    "data": 44933,
+    "recorrentes": "kabum",
+    "referente á": "volante g29",
+    "p": 2,
+    "t": 10,
+    "Valor_1": 134.11,
+    "data_1": 44904
+  },
+  {
+    "Conta": "helo",
+    "Valor": -17.5,
+    "data": 44935,
+    "recorrentes": "kabum",
+    "referente á": "cambio g29",
+    "p": 2,
+    "t": 10,
+    "Valor_1": 32.11,
+    "data_1": 44904
+  },
+  {
+    "Conta": "helo panela e gym",
+    "Valor": 224.9,
+    "data": 44935,
+    "recorrentes": "steam",
+    "referente á": "dying light 2",
+    "p": 2,
+    "t": 3,
+    "Valor_1": 41.5,
+    "data_1": 44904
+  },
+  {
+    "Conta": "academia",
+    "Valor": -180,
+    "data": 44935,
+    "recorrentes": "mercado libre",
+    "referente á": "panela helo",
+    "p": 6,
+    "t": 10,
+    "Valor_1": 144.9,
+    "data_1": 44904
+  },
+  {
+    "Conta": "unoesc rematricula",
+    "Valor": -263.44,
+    "data": 44938,
+    "recorrentes": "amazon",
+    "referente á": "p/treino e v-d",
+    "p": 3,
+    "t": 3,
+    "Valor_1": 50.95,
+    "data_1": 44904
+  },
+  {
+    "Conta": "julia not (troca do hd)",
+    "Valor": 120,
+    "data": 44938,
+    "recorrentes": "food unoesc",
+    "referente á": "comida",
+    "p": "-",
+    "t": "-",
+    "Valor_1": 13,
+    "data_1": 44909
+  },
+  {
+    "Conta": "Aplicação p/fundo",
+    "Valor": -300,
+    "data": 44940,
+    "recorrentes": "microsoft",
+    "referente á": "gamepass",
+    "p": "-",
+    "t": "-",
+    "Valor_1": 29.99,
+    "data_1": 44909
+  },
+  {
+    "Conta": "quadrado hbo",
+    "Valor": -7,
+    "data": 44941,
+    "recorrentes": "baitakao",
+    "referente á": "xis",
+    "p": "-",
+    "t": "-",
+    "Valor_1": 31.9,
+    "data_1": 44910
+  },
+  {
+    "Conta": "compra bitcoin",
+    "Valor": -20,
+    "data": 44943,
+    "recorrentes": "food unoesc",
+    "referente á": "papa",
+    "p": "-",
+    "t": "-",
+    "Valor_1": 4,
+    "data_1": 44911
+  },
+  {
+    "Conta": "resgate fundo",
+    "Valor": 309.44,
+    "data": 44943,
+    "recorrentes": "bk",
+    "referente á": "hamburgue",
+    "p": "-",
+    "t": "-",
+    "Valor_1": 32.9,
+    "data_1": 44911
+  },
+  {
+    "Conta": "greg nativa",
+    "Valor": 85,
+    "data": 44945,
+    "recorrentes": "bk",
+    "referente á": "sorvete",
+    "p": "-",
+    "t": "-",
+    "Valor_1": 11.9,
+    "data_1": 44911
+  },
+  {
+    "Conta": "mano luiz",
+    "Valor": -15,
+    "data": 44947,
+    "recorrentes": "microsoft",
+    "referente á": "pc building simulator",
+    "p": "-",
+    "t": "-",
+    "Valor_1": 16.86,
+    "data_1": 44916
+  },
+  {
+    "Conta": "venda bitcoin",
+    "Valor": 22.67,
+    "data": 44947,
+    "recorrentes": "posto zanela",
+    "referente á": "gasolina comum",
+    "p": "-",
+    "t": "-",
+    "Valor_1": 100,
+    "data_1": 44917
+  },
+  {
+    "Conta": "prado (presilha cambio golf)",
+    "Valor": -2.5,
+    "data": 44953,
+    "recorrentes": "josue olivo prado",
+    "referente á": "3 lixas",
+    "p": "-",
+    "t": "-",
+    "Valor_1": 15,
+    "data_1": 44918
+  },
+  {
+    "recorrentes": "bertuol",
+    "referente á": "vale+coisas",
+    "p": "-",
+    "t": "-",
+    "Valor_1": 66.09,
+    "data_1": 44918
+  },
+  {
+    "recorrentes": "bertuol",
+    "referente á": "amigo secreto",
+    "p": "-",
+    "t": "-",
+    "Valor_1": 67,
+    "data_1": 44919
+  },
+  {
+    "recorrentes": "kabum",
+    "referente á": "galaxy watch",
+    "p": 1,
+    "t": 10,
+    "Valor_1": 202.88,
+    "data_1": 44919
+  },
+  {
+    "recorrentes": "steam",
+    "referente á": "f1 e asseto corda",
+    "p": 1,
+    "t": 3,
+    "Valor_1": 38.2,
+    "data_1": 44919
+  },
+  {
+    "recorrentes": "shopee",
+    "referente á": "carro/cabo",
+    "p": 1,
+    "t": 3,
+    "Valor_1": 57.52,
+    "data_1": 45285
+  },
+  {
+    "recorrentes": "footbeer",
+    "referente á": "hambrugue",
+    "p": "-",
+    "t": "-",
+    "Valor_1": 111,
+    "data_1": 44933
+  },
+  {
+    "recorrentes": "spotify",
+    "referente á": "assinatura",
+    "p": "-",
+    "t": "-",
+    "Valor_1": 9.9,
+    "data_1": 44933
+  },
+  {
+    "Valor": 1729.7199999999991,
+    "Valor_1": 1329.8600000000001,
+    "Valor_2": 0
+  },
+  {
+    "Conta": "Total",
+    "Valor": 1729.7199999999991,
+    "recorrentes": 399.859999999999,
+    "__EMPTY_1": 1329.8600000000001
+  },
+  {
+    "Conta": "flash",
+    "Valor_1": 399.859999999999,
+    "empréstimos": 1329.8600000000001
+  },
+  {
+    "Conta": "Conta",
+    "Valor": "Valor",
+    "data": "data",
+    "recorrentes": "gastos",
+    "referente á": "Valor",
+    "p": "data"
+  },
+  {
+    "Conta": "saldo",
+    "Valor": 0.05999999999994543,
+    "data": 45288,
+    "recorrentes": "posto zanela",
+    "referente á": 276,
+    "p": 45290
+  },
+  {
+    "Conta": "acrescimo",
+    "Valor": 539,
+    "data": 45289,
+    "recorrentes": "posto zanela",
+    "referente á": 245,
+    "p": 44947
+  },
+  {
+    "Valor": 539.06,
+    "referente á": 521
+  },
+  {
+    "Conta": "Total",
+    "Valor": 539.06,
+    "recorrentes": 18.059999999999945,
+    "t": 521
+  },
+  {
+    "referente á": 18.059999999999945
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "name": "persona_list",
+  "version": "1.0.0",
+  "description": "api de gerenciamento de base de usuarios cadastrados",
+  "main": "src/api.js",
+  "scripts": {
+    "start": "nodemon main",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yperdoom/persona_list.git"
+  },
+  "author": "Pedro Henrique Antunes Pinto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yperdoom/persona_list/issues"
+  },
+  "homepage": "https://github.com/yperdoom/persona_list#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "eslint": "^8.10.0",
+    "eslint-standard": "^1.0.2",
+    "express": "^4.17.2",
+    "luxon": "^2.3.1",
+    "nodemon": "^2.0.15",
+    "pg": "^8.7.3",
+    "pg-promise": "^10.11.1"
+  }
+}

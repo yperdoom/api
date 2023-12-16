@@ -1,0 +1,231 @@
+[
+  {
+    "Conta": "saldo",
+    "Valor": 37.48999999999933,
+    "data": 45047,
+    "nubank": "kabum",
+    "referente á": "volante g29",
+    "p": 7,
+    "t": 10,
+    "Valor_1": 134.11,
+    "data_1": 45055,
+    "banco do brasil": "kabum",
+    "referente á_1": "placa mãe",
+    "p_1": 2,
+    "t_1": 10,
+    "Valor_2": 230.52,
+    "outros": "faculdade",
+    "referente á_2": "mensalidade",
+    "p_2": 6,
+    "t_2": 6,
+    "Valor_3": 131.72,
+    "dividas": "helo",
+    "__EMPTY_4": 700,
+    "total": 700
+  },
+  {
+    "Conta": "salario",
+    "Valor": 2778.86,
+    "data": 45051,
+    "nubank": "kabum",
+    "referente á": "galaxy watch",
+    "p": 6,
+    "t": 10,
+    "Valor_1": 202.83,
+    "data_1": 45055,
+    "banco do brasil": "kabum",
+    "referente á_1": "fonte, ssd, water cooler",
+    "p_1": 2,
+    "t_1": 10,
+    "Valor_2": 198.26
+  },
+  {
+    "nubank": "nuuvem",
+    "referente á": "resident evil 4",
+    "p": 3,
+    "t": 4,
+    "Valor_1": 50.49,
+    "data_1": 45055
+  },
+  {
+    "nubank": "nuuvem",
+    "referente á": "reded, gow e horizon zero dawn",
+    "p": 3,
+    "t": 4,
+    "Valor_1": 62.88,
+    "data_1": 45055
+  },
+  {
+    "nubank": "terabyte",
+    "referente á": "i5 13600KF",
+    "p": 2,
+    "t": 12,
+    "Valor_1": 199.78,
+    "data_1": 45055,
+    "dividas": "TOTAL",
+    "total": 700
+  },
+  {
+    "nubank": "kabum",
+    "referente á": "gabinete rise mode :]",
+    "p": 2,
+    "t": 10,
+    "Valor_1": 99.9,
+    "data_1": 45055
+  },
+  {
+    "nubank": "amazon",
+    "referente á": "camisa, café, pasta",
+    "p": 2,
+    "t": 3,
+    "Valor_1": 52.96,
+    "data_1": 45055,
+    "dividas": "compras a prazo no cartão"
+  },
+  {
+    "nubank": "mercado livre",
+    "referente á": "win key",
+    "p": 2,
+    "t": 3,
+    "Valor_1": 16.66,
+    "data_1": 45055,
+    "dividas": "volante g29",
+    "__EMPTY_4": 134.11,
+    "__EMPTY_5": 3,
+    "total": 402.33000000000004
+  },
+  {
+    "nubank": "onlyfans",
+    "p": "-",
+    "t": "-",
+    "Valor_1": 14.96,
+    "data_1": 45057,
+    "dividas": "galaxy watch",
+    "__EMPTY_4": 202.83,
+    "__EMPTY_5": 4,
+    "total": 811.32
+  },
+  {
+    "nubank": "kabum",
+    "referente á": "monitor",
+    "p": 1,
+    "t": 10,
+    "Valor_1": 187.55,
+    "data_1": 45057
+  },
+  {
+    "nubank": "mercadolivre",
+    "referente á": "armario",
+    "p": 1,
+    "t": 7,
+    "Valor_1": 31.25,
+    "data_1": 45057
+  },
+  {
+    "nubank": "nubank",
+    "referente á": "adian fatura",
+    "p": "-",
+    "t": "-",
+    "Valor_1": -75,
+    "data_1": 45057
+  },
+  {
+    "nubank": "nuuvem",
+    "referente á": "mortal kombat",
+    "p": "-",
+    "t": "-",
+    "Valor_1": 11.16,
+    "data_1": 45059
+  },
+  {
+    "nubank": "discord",
+    "referente á": "nitro monthly",
+    "p": "-",
+    "t": "-",
+    "Valor_1": 25.84,
+    "data_1": 45062
+  },
+  {
+    "nubank": "[IOF] discord",
+    "referente á": "nitro monthly",
+    "p": "-",
+    "t": "-",
+    "Valor_1": 1.39,
+    "data_1": 45062
+  },
+  {
+    "nubank": "nubank",
+    "referente á": "adian fatura",
+    "p": "-",
+    "t": "-",
+    "Valor_1": -80,
+    "data_1": 45063,
+    "dividas": "monitor",
+    "__EMPTY_4": 187.55,
+    "__EMPTY_5": 9,
+    "total": 1687.95
+  },
+  {
+    "nubank": "liberty seguros",
+    "referente á": "seguro golf",
+    "p": 2,
+    "t": 12,
+    "Valor_1": 206.04,
+    "data_1": 45067
+  },
+  {
+    "nubank": "google",
+    "referente á": "youtube premium",
+    "p": "-",
+    "t": "-",
+    "Valor_1": 20.9,
+    "data_1": 45067
+  },
+  {
+    "nubank": "steam",
+    "referente á": "walpapper engine",
+    "p": "-",
+    "t": "-",
+    "Valor_1": 10.13,
+    "data_1": 45072
+  },
+  {
+    "nubank": "[IOF] steam",
+    "referente á": "walpapper engine",
+    "p": "-",
+    "t": "-",
+    "Valor_1": 0.54,
+    "data_1": 45072,
+    "dividas": "TOTAL",
+    "total": 2499.27
+  },
+  {
+    "dividas": "TOTAL",
+    "total": 2499.27
+  },
+  {
+    "Valor": 2816.3499999999995,
+    "Valor_1": 1174.3700000000003,
+    "Valor_2": 428.78,
+    "Valor_3": 131.72
+  },
+  {
+    "Conta": "Total",
+    "Valor": 2816.3499999999995,
+    "nubank": 1081.479999999999,
+    "__EMPTY_1": 1734.8700000000003
+  },
+  {
+    "Valor_1": 1081.479999999999,
+    "banco do brasil": 1734.8700000000003
+  },
+  {
+    "nubank": 2816.3499999999995
+  },
+  {
+    "nubank": 1174.3700000000003
+  },
+  {
+    "nubank": 428.78
+  }
+]

@@ -1,0 +1,176 @@
+[
+  {
+    "Conta": "saldo",
+    "Valor": 11,
+    "data": 44742,
+    "recorrentes": "mercado livre",
+    "referente á": "mesa e luz",
+    "p": 8,
+    "t": 12,
+    "Valor_1": 34.99,
+    "data_1": 44721,
+    "empréstimos": "Emprestimo quit",
+    "p_1": 5,
+    "t_1": 11,
+    "Valor_2": 347.4,
+    "data_2": 44753
+  },
+  {
+    "Conta": "salario",
+    "Valor": 1747.18,
+    "recorrentes": "amazon",
+    "referente á": "caneca mãe",
+    "p": 3,
+    "t": 4,
+    "Valor_1": 10.64,
+    "data_1": 44721
+  },
+  {
+    "Conta": "aluguel",
+    "Valor": -900,
+    "recorrentes": "amazon",
+    "referente á": "roteado/lamp",
+    "p": 8,
+    "t": 9,
+    "Valor_1": 30.32,
+    "data_1": 44721
+  },
+  {
+    "Conta": "celular",
+    "Valor": -65,
+    "recorrentes": "amazon",
+    "referente á": "controle",
+    "p": 2,
+    "t": 10,
+    "Valor_1": 51.28,
+    "data_1": 44721
+  },
+  {
+    "Conta": "pai pneus",
+    "Valor": 821.13,
+    "recorrentes": "shopee",
+    "referente á": "cama/caixa",
+    "p": 4,
+    "t": 6,
+    "Valor_1": 9.85,
+    "data_1": 44721
+  },
+  {
+    "recorrentes": "shopee",
+    "referente á": "roupa cão",
+    "p": 3,
+    "t": 6,
+    "Valor_1": 8.21,
+    "data_1": 44721
+  },
+  {
+    "recorrentes": "shopee",
+    "referente á": "copo helo",
+    "p": 2,
+    "t": 6,
+    "Valor_1": 7.3,
+    "data_1": 44721
+  },
+  {
+    "recorrentes": "eng do corpo",
+    "referente á": "academia",
+    "p": "-",
+    "t": "-",
+    "Valor_1": 109.9,
+    "data_1": 44722
+  },
+  {
+    "recorrentes": "eng do corpo",
+    "referente á": "academia",
+    "p": "-",
+    "t": "-",
+    "Valor_1": 8.32,
+    "data_1": 44722
+  },
+  {
+    "recorrentes": "minerva",
+    "referente á": "aliança",
+    "p": 1,
+    "t": 3,
+    "Valor_1": 83,
+    "data_1": 44722
+  },
+  {
+    "recorrentes": "celeiro",
+    "referente á": "rancho",
+    "p": "-",
+    "t": "-",
+    "Valor_1": 160.5,
+    "data_1": 44722
+  },
+  {
+    "recorrentes": "food book",
+    "referente á": "comida faculdade",
+    "p": "-",
+    "t": "-",
+    "Valor_1": 5,
+    "data_1": 44722
+  },
+  {
+    "recorrentes": "ifood",
+    "referente á": "banker burguer",
+    "p": "-",
+    "t": "-",
+    "Valor_1": 67,
+    "data_1": 44728
+  },
+  {
+    "recorrentes": "Achei Pneus",
+    "referente á": "2 pneus/golf",
+    "p": "-",
+    "t": "-",
+    "Valor_1": 821.13,
+    "data_1": 44730
+  },
+  {
+    "recorrentes": "amazon",
+    "referente á": "prime",
+    "p": "-",
+    "t": "-",
+    "Valor_1": 9.9,
+    "data_1": 44730
+  },
+  {
+    "Valor": 1614.31,
+    "Valor_1": 1417.3400000000001,
+    "Valor_2": 347.4
+  },
+  {
+    "Conta": "Total",
+    "Valor": 1614.31,
+    "recorrentes": -150.4300000000003,
+    "__EMPTY_1": 1764.7400000000002
+  },
+  {
+    "Conta": "flash",
+    "empréstimos": 1764.7400000000002
+  },
+  {
+    "Conta": "Conta",
+    "Valor": "Valor",
+    "data": "data",
+    "recorrentes": "gastos",
+    "referente á": "Valor",
+    "p": "data"
+  },
+  {
+    "Conta": "saldo",
+    "Valor": 460,
+    "data": 44743
+  },
+  {
+    "Valor": 460,
+    "referente á": 0
+  },
+  {
+    "Conta": "Total",
+    "Valor": 460,
+    "recorrentes": 460,
+    "t": 0
+  }
+]
