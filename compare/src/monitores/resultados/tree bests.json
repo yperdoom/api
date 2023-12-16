@@ -1,0 +1,82 @@
+{
+  "theBest": {
+    "marca": "cooler master",
+    "modelo": "CMI-GM34-CWQA",
+    "polegadas": 34,
+    "taxa_de_atualização": 144,
+    "tempo_de_resposta": 0.5,
+    "cores": {
+      "sRGB": 128
+    },
+    "resolucao": "3440x1440",
+    "curvatura": 1500,
+    "painel": "qled",
+    "valor": 4700,
+    "link": "https://www.kabum.com.br/produto/481014/monitor-gamer-cooler-master-34-pol-curvo-uwqhd-3440x1440-0-5ms-144hz-hdr400-vesa-gm34-cwqa",
+    "pontuacao": 14.319148936170212,
+    "pontos": {
+      "curvatura": 1.5,
+      "tempoResposta": 2,
+      "taxaDeAtualizacao": 1,
+      "painel": {
+        "painel": 2,
+        "resolucao": 1,
+        "cores": 1.5
+      }
+    }
+  },
+  "secondBest": {
+    "marca": "cooler master",
+    "modelo": "CMI-GM34-CW2-BR",
+    "polegadas": 34,
+    "taxa_de_atualização": 144,
+    "taxa_de_atualização_OC": 165,
+    "tempo_de_resposta": 1,
+    "cores": {
+      "sRGB": 125
+    },
+    "resolucao": "3440x1440",
+    "curvatura": 1500,
+    "painel": "qled",
+    "valor": 4200,
+    "link": "https://www.kabum.com.br/produto/378053/monitor-gamer-cooler-master-34-qled-2k-qhd-165hz-1ms-hdmi-e-displayport-95-dci-p3-hdr-freesync-cmi-gm34-cw2-br",
+    "pontuacao": 14.152380952380952,
+    "pontos": {
+      "curvatura": 1.5,
+      "tempoResposta": 1,
+      "taxaDeAtualizacao": 1.5,
+      "painel": {
+        "painel": 2,
+        "resolucao": 1,
+        "cores": 1.2
+      }
+    }
+  },
+  "thirdBest": {
+    "marca": "alienware",
+    "modelo": "AW2724DM",
+    "polegadas": 27,
+    "taxa_de_atualização": 165,
+    "taxa_de_atualização_OC": 180,
+    "tempo_de_resposta": 1,
+    "cores": {
+      "sRGB": 125
+    },
+    "resolucao": "2560x1440",
+    "curvatura": false,
+    "painel": "ips",
+    "valor": 3200,
+    "link": "https://www.dell.com/pt-br/shop/monitor-gamer-alienware-27-aw2724dm/apd/210-bjpf/monitores-e-acess%C3%B3rios",
+    "pontuacao": 13.7125,
+    "pontos": {
+      "curvatura": 0,
+      "tempoResposta": 1,
+      "taxaDeAtualizacao": 1.7,
+      "painel": {
+        "painel": 1,
+        "resolucao": 1,
+        "cores": 1.2
+      }
+    }
+  }
+}

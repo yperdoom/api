@@ -1,0 +1,169 @@
+[
+  {
+    "marca": "gigabyte",
+    "modelo": "M34WQ",
+    "polegadas": 34,
+    "taxa_de_atualização": 144,
+    "tempo_de_resposta": 1,
+    "cores": {
+      "sRGB": 117
+    },
+    "resolucao": "3440x1440",
+    "curvatura": false,
+    "painel": "ips",
+    "valor": 4500,
+    "link": "https://www.amazon.com/dp/B09GL7HQ6S?ref_=cm_sw_r_apan_dp_9NKANHKPA1AMPTS74XK8"
+  },
+  {
+    "marca": "gigabyte",
+    "modelo": "G34WQC A-SA",
+    "polegadas": 34,
+    "taxa_de_atualização": 144,
+    "tempo_de_resposta": 1,
+    "cores": {
+      "sRGB": 120
+    },
+    "resolucao": "3440x1440",
+    "curvatura": 1500,
+    "painel": "va",
+    "valor": 3500,
+    "link": ""
+  },
+  {
+    "marca": "lg",
+    "modelo": "34wp550-b",
+    "polegadas": 34,
+    "taxa_de_atualização": 75,
+    "tempo_de_resposta": 5,
+    "cores": {
+      "sRGB": 95
+    },
+    "resolucao": "2560x1080",
+    "curvatura": false,
+    "painel": "ips",
+    "valor": 1500,
+    "link": "https://www.kabum.com.br/produto/340630/monitor-gamer-lg-34-ultrawide-full-hd-75hz-5ms-hdmi-ips-hdr10-freesync-34wp550-b"
+  },
+  {
+    "marca": "lg",
+    "modelo": "34GP63A-B",
+    "polegadas": 34,
+    "taxa_de_atualização": 160,
+    "tempo_de_resposta": 1,
+    "cores": {
+      "sRGB": 99
+    },
+    "resolucao": "3440x1440",
+    "curvatura": 1800,
+    "painel": "va",
+    "valor": 2200,
+    "link": "https://www.kabum.com.br/produto/472908/monitor-gamer-lg-ultragear-lg-34-curvo-led-wqhd-ultrawide-160hz-1ms-displayport-e-hdmi-amd-freesync-premium-hdr10-99-srgb-34gp63a-b"
+  },
+  {
+    "marca": "husky",
+    "modelo": "HGMT005",
+    "polegadas": 34,
+    "taxa_de_atualização": 144,
+    "tempo_de_resposta": 1,
+    "cores": {
+      "sRGB": 95
+    },
+    "resolucao": "3440x1440",
+    "curvatura": 1500,
+    "painel": "va",
+    "valor": 2000,
+    "link": "https://www.kabum.com.br/produto/135276/monitor-gamer-husky-tempest-34-va-ultrawide-144-hz-2k-qhd-1ms-adaptive-sync-95-srgb-hdmi-displayport-som-hgmt005"
+  },
+  {
+    "marca": "samsung",
+    "modelo": "C34G55TWWL",
+    "polegadas": 34,
+    "taxa_de_atualização": 165,
+    "tempo_de_resposta": 1,
+    "cores": {
+      "sRGB": 95
+    },
+    "resolucao": "3440x1440",
+    "curvatura": 1000,
+    "painel": "va",
+    "valor": 3200,
+    "link": "https://www.kabum.com.br/produto/155193/monitor-gamer-samsung-odyssey-g5-34-va-curvo-wide-165-hz-2k-qhd-1ms-freesync-premium-hdr10-hdmi-displayport-lc34g55twwlxzd?gclid=CjwKCAjwv-2pBhB-EiwAtsQZFHMakEwZq9a_t62Hph5CpQBalb6KlSmQnGqCwTfL8qpkX8wK91b1CRoCjbMQAvD_BwE"
+  },
+  {
+    "marca": "cooler master",
+    "modelo": "CMI-GM34-CW2-BR",
+    "polegadas": 34,
+    "taxa_de_atualização": 144,
+    "taxa_de_atualização_OC": 165,
+    "tempo_de_resposta": 1,
+    "cores": {
+      "sRGB": 125
+    },
+    "resolucao": "3440x1440",
+    "curvatura": 1500,
+    "painel": "qled",
+    "valor": 4200,
+    "link": "https://www.kabum.com.br/produto/378053/monitor-gamer-cooler-master-34-qled-2k-qhd-165hz-1ms-hdmi-e-displayport-95-dci-p3-hdr-freesync-cmi-gm34-cw2-br"
+  },
+  {
+    "marca": "cooler master",
+    "modelo": "CMI-GM34-CWQA",
+    "polegadas": 34,
+    "taxa_de_atualização": 144,
+    "tempo_de_resposta": 0.5,
+    "cores": {
+      "sRGB": 128
+    },
+    "resolucao": "3440x1440",
+    "curvatura": 1500,
+    "painel": "qled",
+    "valor": 4700,
+    "link": "https://www.kabum.com.br/produto/481014/monitor-gamer-cooler-master-34-pol-curvo-uwqhd-3440x1440-0-5ms-144hz-hdr400-vesa-gm34-cwqa"
+  },
+  {
+    "marca": "dell",
+    "modelo": "S3422DWG",
+    "polegadas": 34,
+    "taxa_de_atualização": 144,
+    "tempo_de_resposta": 1,
+    "cores": {
+      "sRGB": 99
+    },
+    "resolucao": "3440x1440",
+    "curvatura": 1800,
+    "painel": "va",
+    "valor": 3300,
+    "link": "https://www.dell.com/pt-br/shop/monitor-curvo-wqhd-34-dell-s3422dwg/apd/210-azep/monitores-e-acess%C3%B3rios"
+  },
+  {
+    "marca": "dell",
+    "modelo": "S2722DGM",
+    "polegadas": 27,
+    "taxa_de_atualização": 165,
+    "tempo_de_resposta": 1,
+    "cores": {
+      "sRGB": 99
+    },
+    "resolucao": "2560x1440",
+    "curvatura": false,
+    "painel": "va",
+    "valor": 3600,
+    "link": "https://www.dell.com/pt-br/shop/monitor-curvo-qhd-27-dell-s2722dgm/apd/210-azzp/monitores-e-acess%C3%B3rios"
+  },
+  {
+    "marca": "alienware",
+    "modelo": "AW2724DM",
+    "polegadas": 27,
+    "taxa_de_atualização": 165,
+    "taxa_de_atualização_OC": 180,
+    "tempo_de_resposta": 1,
+    "cores": {
+      "sRGB": 125
+    },
+    "resolucao": "2560x1440",
+    "curvatura": false,
+    "painel": "ips",
+    "valor": 3200,
+    "link": "https://www.dell.com/pt-br/shop/monitor-gamer-alienware-27-aw2724dm/apd/210-bjpf/monitores-e-acess%C3%B3rios"
+  }
+]

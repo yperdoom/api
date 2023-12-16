@@ -1,0 +1,80 @@
+{
+  "theBest": {
+    "marca": "lg",
+    "modelo": "34wp550-b",
+    "polegadas": 34,
+    "taxa_de_atualização": 75,
+    "tempo_de_resposta": 5,
+    "cores": {
+      "sRGB": 95
+    },
+    "resolucao": "2560x1080",
+    "curvatura": false,
+    "painel": "ips",
+    "valor": 1500,
+    "link": "https://www.kabum.com.br/produto/340630/monitor-gamer-lg-34-ultrawide-full-hd-75hz-5ms-hdmi-ips-hdr10-freesync-34wp550-b",
+    "pontuacao": 17.76666666666667,
+    "pontos": {
+      "curvatura": 0,
+      "tempoResposta": 0,
+      "taxaDeAtualizacao": 0,
+      "painel": {
+        "painel": 1,
+        "resolucao": 0,
+        "cores": 0.1
+      }
+    }
+  },
+  "secondBest": {
+    "marca": "husky",
+    "modelo": "HGMT005",
+    "polegadas": 34,
+    "taxa_de_atualização": 144,
+    "tempo_de_resposta": 1,
+    "cores": {
+      "sRGB": 95
+    },
+    "resolucao": "3440x1440",
+    "curvatura": 1500,
+    "painel": "va",
+    "valor": 2000,
+    "link": "https://www.kabum.com.br/produto/135276/monitor-gamer-husky-tempest-34-va-ultrawide-144-hz-2k-qhd-1ms-adaptive-sync-95-srgb-hdmi-displayport-som-hgmt005",
+    "pontuacao": 17.1,
+    "pontos": {
+      "curvatura": 1.5,
+      "tempoResposta": 1,
+      "taxaDeAtualizacao": 1,
+      "painel": {
+        "painel": 0,
+        "resolucao": 1,
+        "cores": 0.1
+      }
+    }
+  },
+  "thirdBest": {
+    "marca": "lg",
+    "modelo": "34GP63A-B",
+    "polegadas": 34,
+    "taxa_de_atualização": 160,
+    "tempo_de_resposta": 1,
+    "cores": {
+      "sRGB": 99
+    },
+    "resolucao": "3440x1440",
+    "curvatura": 1800,
+    "painel": "va",
+    "valor": 2200,
+    "link": "https://www.kabum.com.br/produto/472908/monitor-gamer-lg-ultragear-lg-34-curvo-led-wqhd-ultrawide-160hz-1ms-displayport-e-hdmi-amd-freesync-premium-hdr10-99-srgb-34gp63a-b",
+    "pontuacao": 16.263636363636365,
+    "pontos": {
+      "curvatura": 1.2,
+      "tempoResposta": 1,
+      "taxaDeAtualizacao": 1.2,
+      "painel": {
+        "painel": 0,
+        "resolucao": 1,
+        "cores": 0.5
+      }
+    }
+  }
+}

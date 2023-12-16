@@ -1,0 +1,65 @@
+[
+  {
+    "marca": "samsung",
+    "modelo": "S9 FE",
+    "polegadas": 10.9,
+    "processador": "exynos 1380",
+    "armazenamento": 128,
+    "ram": 6,
+    "bateria": 8000,
+    "taxa_de_atualizacao": 90,
+    "resolucao": "2304x1440",
+    "dimensoes": {
+      "largura": 165.8,
+      "comprimento": 254.3,
+      "espessura": 6.5,
+      "peso": 523
+    },
+    "painel": "lcd",
+    "protecao": "IP68",
+    "valor": 2700,
+    "link": "https://www.samsung.com/br/tablets/galaxy-tab-s/galaxy-tab-s9-fe-wifi-gray-128gb-sm-x510nzadzto/"
+  },
+  {
+    "marca": "samsung",
+    "modelo": "S9 FE+",
+    "polegadas": 12.4,
+    "processador": "exynos 1380",
+    "armazenamento": 128,
+    "ram": 8,
+    "bateria": 10090,
+    "taxa_de_atualizacao": 90,
+    "resolucao": "2560x1600",
+    "dimensoes": {
+      "largura": 185.4,
+      "comprimento": 285.4,
+      "espessura": 6.5,
+      "peso": 627
+    },
+    "painel": "lcd",
+    "protecao": "IP68",
+    "valor": 3600,
+    "link": "https://www.samsung.com/br/tablets/galaxy-tab-s/galaxy-tab-s9-fe-plus-wifi-gray-128gb-sm-x610nzadzto/#benefit"
+  },
+  {
+    "marca": "samsung",
+    "modelo": "S9",
+    "polegadas": 11,
+    "processador": "snapdragon 8gen2",
+    "armazenamento": 128,
+    "ram": 12,
+    "bateria": 8400,
+    "taxa_de_atualizacao": 90,
+    "resolucao": "2560x1600",
+    "dimensoes": {
+      "largura": 165.8,
+      "comprimento": 254.3,
+      "espessura": 5.9,
+      "peso": 498
+    },
+    "painel": "AMOLED dynamic 2X",
+    "protecao": "IP68",
+    "valor": 3600,
+    "link": "https://www.samsung.com/br/tablets/galaxy-tab-s/galaxy-tab-s9-fe-plus-wifi-gray-128gb-sm-x610nzadzto/#benefit"
+  }
+]
