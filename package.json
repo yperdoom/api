@@ -1,0 +1,15 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "api centralizadora de gerenciamento de multiplas funções para projetos pessoais.",
+  "main": "execute.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "luxon": "^3.4.4"
+  }
+}
