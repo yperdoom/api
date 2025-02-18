@@ -1,7 +1,7 @@
-const Logger = require('../../../library/function/Logger')
-const database = require('../../../../database/postgres/createConnection')
+import Logger from '../../../library/function/Logger.js'
+import database from '../../../database/postgres/createConnection.js'
 
-module.exports = async (body) => {
+export default async (body) => {
   const client = await database.connect()
   if (!client) {
     return null

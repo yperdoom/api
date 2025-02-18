@@ -1,22 +1,22 @@
-const color = require('../enums/terminalColors')
+import { purple, yellow, green, blue, red } from '../enums/terminalColors.js'
 
-module.exports = ({
+export default ({
   trace: async (message, locale = 'init-route') => {
     if (locale === 'start') {
-      console.log(color.purple, message)
+      console.log(purple, message)
     }
     if (locale === 'init') {
-      console.log(color.yellow, message)
+      console.log(yellow, message)
     }
     if (locale === 'init-route') {
-      console.log(color.green, message)
+      console.log(green, message)
     }
     if (locale === 'end') {
-      console.log(color.blue, message)
+      console.log(blue, message)
     }
   },
   log: async (log) => {
-    const type = color.blue
+    const type = blue
 
     if (log.message) { print('message: ' + log.message, type) }
     if (log.type) { print('type: ' + log.type, type) }
@@ -24,7 +24,7 @@ module.exports = ({
     if (log.body) { print('body: ' + log.body, type) }
   },
   error: async (error) => {
-    const type = color.red
+    const type = red
 
     if (error.message) { print('message: ' + error.message, type) }
     if (error.type) { print('type: ' + error.type, type) }

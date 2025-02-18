@@ -1,6 +1,5 @@
-'use strict'
 
-module.exports = async ({ entry, exit }) => {
+export default async ({ entry, exit }) => {
   const balance = {
     hours: exit.hours - entry.hours,
     minutes: exit.minutes - entry.minutes

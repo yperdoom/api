@@ -1,5 +1,5 @@
-const Logger = require('../../src/library/function/Logger')
-const { Pool } = require('pg')
+import Logger from '../../library/function/Logger.js'
+import postgres from 'pg'
 
 const {
   POSTGRES_HOST: pgHost,
@@ -9,7 +9,7 @@ const {
   POSTGRES_PORT: pgPort
 } = process.env
 
-const pool = new Pool({
+const pool = new postgres.Pool({
   host: pgHost,
   user: pgUser,
   password: pgPass,
@@ -18,40 +18,41 @@ const pool = new Pool({
 })
 const global = {}
 
-module.exports.connect = async () => {
-  if (global.connection) { // conexao já existe
-    return global.connection.connect()
-  }
-  try {
-    await pool.connect()
-    global.connection = pool
-    return pool.connect()
-  } catch (error) {
-    console.log('PGUSER: ', pgUser)
-    console.log('PGHOST: ', pgHost)
-    console.log('PGPASSWORD: ', pgPass)
-    console.log('PGDATABASE: ', pgDB)
-    console.log('PGPORT: ', pgPort)
-    console.log(error)
-    Logger.error({
-      ...error,
-      type: 'database-error',
-      local: 'postgre-connect'
-    })
+export default {
+  connect: async () => {
+    if (global.connection) {
+      return global.connection.connect()
+    }
+    try {
+      await pool.connect()
+      global.connection = pool
+      return pool.connect()
+    } catch (error) {
+      console.log('PGUSER: ', pgUser)
+      console.log('PGHOST: ', pgHost)
+      console.log('PGPASSWORD: ', pgPass)
+      console.log('PGDATABASE: ', pgDB)
+      console.log('PGPORT: ', pgPort)
+      console.log(error)
+      Logger.error({
+        ...error,
+        type: 'database-error',
+        local: 'postgre-connect'
+      })
 
-    return null
-  }
-}
-
-module.exports.close = async () => {
-  try {
-    delete global.connect
-    return 'desconectado'
-  } catch (error) {
-    Logger.error({
-      ...error,
-      type: 'database-error',
-      local: 'postgre-disconnect'
-    })
+      return null
+    }
+  },
+  close: async () => {
+    try {
+      delete global.connect
+      return 'desconectado'
+    } catch (error) {
+      Logger.error({
+        ...error,
+        type: 'database-error',
+        local: 'postgre-disconnect'
+      })
+    }
   }
 }

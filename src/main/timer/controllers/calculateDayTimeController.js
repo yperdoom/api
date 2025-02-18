@@ -1,13 +1,12 @@
-'use strict'
 
-const contract = require('../docs/contract_calculateDayTime.json')
-const verifyContract = require('../../../library/function/verifyContract')
+import contract from '../docs/contract_calculateDayTime.json' with {type: 'json'}
+import verifyContract from '../../../library/function/verifyContract.js'
 
-const calculateBalance = require('../functions/calculateBalance')
-const calculateRemainingTime = require('../functions/calculateRemainingTime')
-const calculeDayBalance = require('../functions/calculeDayBalance')
+import calculateBalance from '../functions/calculateBalance.js'
+import calculateRemainingTime from '../functions/calculateRemainingTime.js'
+import calculeDayBalance from '../functions/calculeDayBalance.js'
 
-module.exports.sim = async (requisition, response, next) => {
+export default async (requisition, response, next) => {
   const { entry_1, exit_1, entry_2, exit_2, other_points } = requisition.body
 
   const verify = verifyContract.verify(contract, requisition?.body)
@@ -47,30 +46,30 @@ module.exports.sim = async (requisition, response, next) => {
 
   console.log('dayBalance: ', dayBalance)
 
-  return response.send({
+  return response.status(204).json({
     success: true,
     message: "Balanço diário calculado com sucesso!",
     body: dayBalance
   })
 }
 
-module.exports.sim({
-  body: {
-    entry_1: {
-      hours: 10,
-      minutes: 11
-    },
-    exit_1: {
-      hours: 12,
-      minutes: 10
-    },
-    entry_2: {
-      hours: 13,
-      minutes: 45
-    },
-    exit_2: {
-      hours: 20,
-      minutes: 12
-    }
-  }
-})
+// sim({
+//   body: {
+//     entry_1: {
+//       hours: 10,
+//       minutes: 11
+//     },
+//     exit_1: {
+//       hours: 12,
+//       minutes: 10
+//     },
+//     entry_2: {
+//       hours: 13,
+//       minutes: 45
+//     },
+//     exit_2: {
+//       hours: 20,
+//       minutes: 12
+//     }
+//   }
+// })

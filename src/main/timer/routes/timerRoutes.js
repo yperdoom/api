@@ -1,11 +1,7 @@
-'use strict'
-
 // imports
-const calculateDayTimeController = require('../controllers/calculateDayTimeController')
+import calculateDayTimeController from '../controllers/calculateDayTimeController.js'
 
 // routes
-module.exports = (api) => {
+export default (api) => {
   api.post('/timer/calculate_day', calculateDayTimeController)
-
-  return api
 }

@@ -1,6 +1,5 @@
-'use strict'
 
-module.exports = async (balances) => {
+export default async (balances) => {
   let hours = 0
   let minutes = 0
 

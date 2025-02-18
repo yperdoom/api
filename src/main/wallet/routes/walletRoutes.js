@@ -1,13 +1,11 @@
-'use strict'
-
 // imports
-const getControllers = require('../controllers/getController')
-const createController = require('../controllers/createController')
-const putController = require('../controllers/putController')
-const deleteController = require('../controllers/deleteController')
+import getControllers from '../controllers/getController.js'
+import createController from '../controllers/createController.js'
+import putController from '../controllers/putController.js'
+import deleteController from '../controllers/deleteController.js'
 
 // routes
-module.exports = (api) => {
+export default (api) => {
   api.get('/wallet/:wallet_id', getControllers)
 
   api.get('/wallet', getControllers)
@@ -17,6 +15,4 @@ module.exports = (api) => {
   api.put('/wallet/:wallet_id', putController)
 
   api.delete('/wallet/:wallet_id', deleteController)
-
-  return api
 }

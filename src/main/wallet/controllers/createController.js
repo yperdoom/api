@@ -1,8 +1,6 @@
-'use strict'
+import createWallet from "../functions/createWallet.js"
 
-const createWallet = require("../functions/createWallet")
-
-module.exports = async (requisition, response, next) => {
+export default async (requisition, response, next) => {
   const body = requisition.body
 
   body.created_at = new Date()

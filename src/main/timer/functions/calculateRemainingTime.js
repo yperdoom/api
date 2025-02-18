@@ -1,6 +1,5 @@
-'use strict'
 
-module.exports = async ({ entry, balances }) => {
+export default async ({ entry, balances }) => {
   const date = new Date()
   const balance = {
     hours: date.getHours() - entry.hours,

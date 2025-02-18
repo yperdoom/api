@@ -1,6 +1,6 @@
-const database = require('../../../../database/postgres/createConnection')
+import database from '../../../../database/postgres/createConnection'
 
-module.exports.createTable = async () => {
+export default createTable = async () => {
   const client = await database.connect()
   if (!client) {
     return null
