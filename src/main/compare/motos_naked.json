@@ -1,0 +1,50 @@
+[
+  {
+    "moto": "mt07",
+    "marca": "yamaha",
+    "potencia": 74.8,
+    "torque": 6.9,
+    "peso": 183,
+    "cilindrada": 689,
+    "cilindros": 2,
+    "banco": 805,
+    "tanque": 14.2,
+    "valor": 47990,
+    "pneus": {
+      "dianteiro": 120,
+      "traseiro": 180
+    }
+  },
+  {
+    "moto": "mt09",
+    "marca": "yamaha",
+    "potencia": 115,
+    "torque": 8.9,
+    "peso": 193,
+    "cilindrada": 847,
+    "cilindros": 3,
+    "banco": 820,
+    "tanque": 14,
+    "valor": 60890,
+    "pneus": {
+      "dianteiro": 120,
+      "traseiro": 180
+    }
+  },
+  {
+    "moto": "z900",
+    "marca": "kawasaski",
+    "potencia": 125,
+    "torque": 10.1,
+    "peso": 212,
+    "cilindrada": 948,
+    "cilindros": 4,
+    "banco": 820,
+    "tanque": 17,
+    "valor": 60490,
+    "pneus": {
+      "dianteiro": 120,
+      "traseiro": 180
+    }
+  }
+]

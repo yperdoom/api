@@ -1,0 +1,41 @@
+version: '3'
+
+services:
+  api:
+    container_name: api-complete
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    environment:
+      # POSTGRES_HOST: jdbc:postgresql://localhost:5432/pg_controller
+      PORT: 4001
+      POSTGRES_DB: pg_controller
+      POSTGRES_HOST: localhost
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: pgps3546
+      POSTGRES_PORT: 5432
+    ports:
+      - "4001:4001"
+    restart: always
+    network_mode: "bridge"
+    volumes:
+      - "./source:/home/app/source"
+    command: npm start
+    depends_on:
+      - postgres
+    links:
+      - postgres
+
+  postgres:
+    container_name: postgres
+    restart: always
+    image: postgres
+    network_mode: "bridge"
+    environment:
+      POSTGRES_DB: pg_controller
+      POSTGRES_HOST: localhost
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: pgps3546
+      POSTGRES_PORT: 5432
+    ports:
+      - 5432:5432

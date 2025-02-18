@@ -1,0 +1,197 @@
+[
+  {
+    "bank": "nubank",
+    "local": "amazon",
+    "item": "tecladin",
+    "categoria": "setup",
+    "prestacao_atual": 7,
+    "prestacao_totais": 10,
+    "valor": 8595,
+    "timestamp": {
+      "day": 9,
+      "mounth": 5
+    }
+  },
+  {
+    "bank": "nubank",
+    "local": "dell",
+    "item": "alienware 27 lindo",
+    "categoria": "setup",
+    "prestacao_atual": 7,
+    "prestacao_totais": 12,
+    "valor": 24991,
+    "timestamp": {
+      "day": 9,
+      "mounth": 5
+    }
+  },
+  {
+    "bank": "nubank",
+    "local": "otica chillibeans",
+    "item": "óculuzin do guri",
+    "categoria": "saude",
+    "prestacao_atual": 5,
+    "prestacao_totais": 10,
+    "valor": 12697,
+    "timestamp": {
+      "day": 9,
+      "mounth": 5
+    }
+  },
+  {
+    "bank": "nubank",
+    "local": "mercadolivre",
+    "item": "disarz escape",
+    "categoria": "veiculo",
+    "prestacao_atual": 4,
+    "prestacao_totais": 10,
+    "valor": 6086,
+    "timestamp": {
+      "day": 9,
+      "mounth": 5
+    }
+  },
+  {
+    "bank": "nubank",
+    "local": "premiere",
+    "item": "eba",
+    "categoria": "lazer",
+    "prestacao_atual": 4,
+    "prestacao_totais": 12,
+    "valor": 2990,
+    "timestamp": {
+      "day": 9,
+      "mounth": 5
+    }
+  },
+  {
+    "bank": "nubank",
+    "local": "motopoint",
+    "item": "graxa véia",
+    "categoria": "veiculo",
+    "prestacao_atual": 4,
+    "prestacao_totais": 9,
+    "valor": 10686,
+    "timestamp": {
+      "day": 9,
+      "mounth": 5
+    }
+  },
+  {
+    "bank": "nubank",
+    "local": "amazon",
+    "item": "ração e adesivo",
+    "categoria": "survival",
+    "prestacao_atual": 3,
+    "prestacao_totais": 3,
+    "valor": 5237,
+    "timestamp": {
+      "day": 9,
+      "mounth": 5
+    }
+  },
+  {
+    "bank": "nubank",
+    "local": "nuuvem",
+    "item": "minezin",
+    "categoria": "lazer",
+    "prestacao_atual": 3,
+    "prestacao_totais": 4,
+    "valor": 2468,
+    "timestamp": {
+      "day": 9,
+      "mounth": 5
+    }
+  },
+  {
+    "bank": "nubank",
+    "local": "steam",
+    "item": "sekiro",
+    "categoria": "lazer",
+    "prestacao_atual": 2,
+    "prestacao_totais": 3,
+    "valor": 4565,
+    "timestamp": {
+      "day": 9,
+      "mounth": 5
+    }
+  },
+  {
+    "bank": "nubank",
+    "local": "kabum",
+    "item": "cadeirinha humm",
+    "categoria": "setup",
+    "prestacao_atual": 2,
+    "prestacao_totais": 10,
+    "valor": 25009,
+    "timestamp": {
+      "day": 9,
+      "mounth": 5
+    }
+  },
+  {
+    "bank": "nubank",
+    "local": "google",
+    "item": "youtube",
+    "categoria": "lazer",
+    "prestacao_atual": 1,
+    "prestacao_totais": 1,
+    "valor": 2490,
+    "timestamp": {
+      "day": 22,
+      "mounth": 5
+    }
+  },
+  {
+    "bank": "nubank",
+    "local": "mercadolivre",
+    "item": "suporte monito",
+    "categoria": "setup",
+    "prestacao_atual": 1,
+    "prestacao_totais": 6,
+    "valor": 3100,
+    "timestamp": {
+      "day": 20,
+      "mounth": 5
+    }
+  },
+  {
+    "bank": "nubank",
+    "local": "food unoesc",
+    "item": "nao passar fome",
+    "categoria": "come-fora",
+    "prestacao_atual": 1,
+    "prestacao_totais": 1,
+    "valor": 3600,
+    "timestamp": {
+      "day": 22,
+      "mounth": 5
+    }
+  },
+  {
+    "bank": "nubank",
+    "local": "motopoint",
+    "item": "revisão n400",
+    "categoria": "veiculo",
+    "prestacao_atual": 1,
+    "prestacao_totais": 2,
+    "valor": 24685,
+    "timestamp": {
+      "day": 7,
+      "mounth": 6
+    }
+  },
+  {
+    "bank": "nubank",
+    "local": "posto zanela",
+    "item": "gasolina ninja",
+    "categoria": "veiculo",
+    "prestacao_atual": 1,
+    "prestacao_totais": 1,
+    "valor": 5360,
+    "timestamp": {
+      "day": 7,
+      "mounth": 6
+    }
+  }
+]

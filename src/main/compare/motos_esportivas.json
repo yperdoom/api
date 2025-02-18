@@ -1,0 +1,130 @@
+[
+  {
+    "moto": "r15",
+    "marca": "yamaha",
+    "potencia": 18.8,
+    "torque": 1.5,
+    "peso": 141,
+    "cilindrada": 155,
+    "cilindros": 1,
+    "banco": 815,
+    "tanque": 11,
+    "valor": 20590,
+    "pneus": {
+      "dianteiro": 100,
+      "traseiro": 140
+    }
+  },
+  {
+    "moto": "r3",
+    "marca": "yamaha",
+    "potencia": 42,
+    "torque": 3,
+    "peso": 171,
+    "cilindrada": 321,
+    "cilindros": 2,
+    "banco": 780,
+    "tanque": 14.2,
+    "valor": 33590,
+    "pneus": {
+      "dianteiro": 110,
+      "traseiro": 140
+    }
+  },
+  {
+    "moto": "ninja 300",
+    "marca": "kawasaski",
+    "potencia": 39,
+    "torque": 2.8,
+    "peso": 175,
+    "cilindrada": 296,
+    "cilindros": 2,
+    "banco": 785,
+    "tanque": 17,
+    "valor": 29990,
+    "pneus": {
+      "dianteiro": 110,
+      "traseiro": 150
+    }
+  },
+  {
+    "moto": "ninja 400",
+    "marca": "kawasaski",
+    "potencia": 48,
+    "torque": 3.9,
+    "peso": 168,
+    "cilindrada": 399,
+    "cilindros": 2,
+    "banco": 785,
+    "tanque": 14,
+    "valor": 34490,
+    "pneus": {
+      "dianteiro": 110,
+      "traseiro": 150
+    }
+  },
+  {
+    "moto": "ninja 650",
+    "marca": "kawasaski",
+    "potencia": 68,
+    "torque": 6.5,
+    "peso": 193,
+    "cilindrada": 649,
+    "cilindros": 2,
+    "banco": 790,
+    "tanque": 15,
+    "valor": 47990,
+    "pneus": {
+      "dianteiro": 120,
+      "traseiro": 160
+    }
+  },
+  {
+    "moto": "ninja zx-4r",
+    "marca": "kawasaski",
+    "potencia": 80,
+    "torque": 4,
+    "peso": 190,
+    "cilindrada": 399,
+    "cilindros": 4,
+    "banco": 800,
+    "tanque": 15,
+    "valor": 55990,
+    "pneus": {
+      "dianteiro": 120,
+      "traseiro": 160
+    }
+  },
+  {
+    "moto": "ninja zx-6r",
+    "marca": "kawasaski",
+    "potencia": 136,
+    "torque": 7.2,
+    "peso": 196,
+    "cilindrada": 636,
+    "cilindros": 4,
+    "banco": 830,
+    "tanque": 17,
+    "valor": 72990,
+    "pneus": {
+      "dianteiro": 120,
+      "traseiro": 180
+    }
+  },
+  {
+    "moto": "ninja zx-10r",
+    "marca": "kawasaski",
+    "potencia": 213,
+    "torque": 11.7,
+    "peso": 207,
+    "cilindrada": 998,
+    "cilindros": 4,
+    "banco": 835,
+    "tanque": 17,
+    "valor": 115990,
+    "pneus": {
+      "dianteiro": 120,
+      "traseiro": 190
+    }
+  }
+]

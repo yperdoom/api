@@ -1,0 +1,22 @@
+{
+  "entry_1": {
+    "type": "point",
+    "needed": "required"
+  },
+  "exit_1": {
+    "type": "point",
+    "needed": "opcional"
+  },
+  "entry_2": {
+    "type": "point",
+    "needed": "opcional"
+  },
+  "exit_2": {
+    "type": "point",
+    "needed": "opcional"
+  },
+  "other_points": {
+    "type": "[point]",
+    "needed": "opcional"
+  }
+}
