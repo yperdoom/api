@@ -1,8 +1,8 @@
 import Citizen from '../models/Citizen.js';
 import defaultMongoOperation from '../../../database/mongo/defaultMongoOperation.js';
+defaultMongoOperation.limit = 10;
+export default async function (filter, projection, queryOptions) {
+  queryOptions = { ...defaultMongoOperation, ...queryOptions }
 
-export default async function (filter, projection) {
-  defaultMongoOperation.limit = 10
-
-  return Citizen.find(filter, projection, defaultMongoOperation)
+  return Citizen.find(filter, projection, queryOptions)
 } 

@@ -6,18 +6,23 @@ import editCitizen from '../services/editCitizen.js';
 import deleteCitizen from "../services/deleteCitizen.js";
 
 export async function getCitizenController(req, res, next) {
+  const params = req.params ?? {};
+  const query = req.query ?? {};
   const filter = {};
   const projection = {};
   let paginate = true;
-
-  if (req.params.citizen_id) {
-    filter._id = req.params.citizen_id
+  const queryOptions = {};
+  if (params.citizen_id) {
+    filter._id = params.citizen_id
     paginate = false;
+  }
+  if (query.limit) {
+    queryOptions.limit = query.limit
   }
 
   try {
     await connect();
-    const citizen = await getCitizen(filter, projection)
+    const citizen = await getCitizen(filter, projection, queryOptions)
     await disconnect();
 
     if (paginate) {
