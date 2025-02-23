@@ -3,3 +3,4 @@
 /.env
 /package-json.lock
 /yarn.lock
+/.ngrok.yml
