@@ -13,4 +13,6 @@ const CitizenSchema = new Schema({
   versionKey: false
 })
 
+CitizenSchema.index({ cpf: 1 }, { unique: true })
+
 export default model('citizen', CitizenSchema)
